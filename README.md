@@ -4,7 +4,7 @@ A modern, responsive multi-page website for an IT services company built with HT
 
 ## 🌐 Live Demo
 
-[View Live Website](https://your-username.github.io/techsolutions-website/)
+[View Live Website] https://adis126.github.io/techsolutions-website/)
 
 ## 📋 Project Overview
 
